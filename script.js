@@ -1,7 +1,7 @@
 "use strict";
 
 console.clear();
-// representa o placo 3D com câmera ortográfica e luzes
+//representa o palco 3D com câmera ortográfica e luzes
 class Stage {
   constructor() { //inicializa a cena, câmera e luzes na renderização 3D
     this.render = function () { //renderiza a cena na tela utilizando o 'renderer'
